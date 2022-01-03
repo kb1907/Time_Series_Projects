@@ -10,5 +10,5 @@
 
 ### Time Series Projects
 
-1. [Demand Prediction Model by Using Bidirectional LSTM Model](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Demand_Prediction_Model_by_Using_Bidirectional_LSTM_Model/Demand%20Prediction%20Model%20by%20Using%20Bidirectional%20LSTM%20Model.ipynb)
+1. [Multivariate Time Series Forecasting with LSTM](https://github.com/kb1907/Time_Series_Projects/blob/main/Multivariate_Time_Series_Forecasting_with_LSTM/multivariate-time-series-forecasting-with-lstm.ipynb)
 
