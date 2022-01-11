@@ -7,7 +7,7 @@
 - In this folder, different scale Time Series projects can be found.
 - All the projects were done by using real life data.
 - This folder will be updated constantly.
-- All the best 
+- All the best 🤘
 
 ## Time Series Projects
 -------------------------------------------------------------------
