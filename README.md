@@ -19,6 +19,10 @@
 ![](https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/tumblr_inline_omh3tnv5zk1r1x9ql_500.png)
 
 ### 3. [COVID19 CASE PREDICTION - PROPHET MODEL](https://nbviewer.org/github/kb1907/Time_Series_Projects/blob/main/COVID19_Case_Prediction_Prophet_Model/Covid19_Cases_Prediction_Using_Facebook_Prophet.ipynb)
+<img src="https://user-images.githubusercontent.com/51021282/149003347-580c4f18-5f2f-4006-830e-70a8b7469841.png" width="600" height="400">,<img src="https://user-images.githubusercontent.com/51021282/149003400-94c93eb9-acc5-4f08-b519-590d97027040.png" width="600" height="400">
+
+
+
 
 ### 4. [Multistep Time Series Forecasting with LSTM Models](https://github.com/kb1907/Time_Series_Projects/blob/main/Multistep_Time_Series_Forecasting_with_LSTM/multi-step-lstm-time-series-forecasting-models.ipynb)
 
