@@ -23,7 +23,6 @@
 <img src="https://user-images.githubusercontent.com/51021282/149003347-580c4f18-5f2f-4006-830e-70a8b7469841.png" width="500" height="400">,<img src="https://user-images.githubusercontent.com/51021282/149003400-94c93eb9-acc5-4f08-b519-590d97027040.png" width="500" height="400">
 
 
-
 ### 4. [Multistep Time Series Forecasting with LSTM Models](https://github.com/kb1907/Time_Series_Projects/blob/main/Multistep_Time_Series_Forecasting_with_LSTM/multi-step-lstm-time-series-forecasting-models.ipynb)
 
 <img src="https://www.researchgate.net/profile/Ke-Yan-4/publication/333791434/figure/fig1/AS:769860309090304@1560560409604/Unrolled-LSTM-uses-time-series-data-as-input.png" width="450" height="400">
