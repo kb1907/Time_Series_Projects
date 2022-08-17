@@ -14,6 +14,7 @@
 
 ### 1. [Multivariate Time Series Forecasting with LSTM](https://github.com/kb1907/Time_Series_Projects/blob/main/Multivariate_Time_Series_Forecasting_with_LSTM/multivariate-time-series-forecasting-with-lstm.ipynb)
 
+
 ### 2. [PROPHET MODEL- Price Forecasting](https://github.com/kb1907/Time_Series_Projects/blob/main/Price%20Forecasting%20with%20Prophet/Facebook_Prophet_Price_Forecasting.ipynb) 
 
 ![](https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/tumblr_inline_omh3tnv5zk1r1x9ql_500.png)
