@@ -31,7 +31,4 @@
 
 
 
-<img src="https://www.researchgate.net/profile/Ke-Yan-4/publication/333791434/figure/fig1/AS:769860309090304@1560560409604/Unrolled-LSTM-uses-time-series-data-as-input.png" width="450" height="400">
-
-
 
