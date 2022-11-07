@@ -26,6 +26,10 @@
 
 ### 4. [Multistep Time Series Forecasting with LSTM Models](https://github.com/kb1907/Time_Series_Projects/blob/main/Multistep_Time_Series_Forecasting_with_LSTM/multi-step-lstm-time-series-forecasting-models.ipynb)
 
+![Screen Shot 2022-11-07 at 9 28 03 PM](https://user-images.githubusercontent.com/51021282/200397625-b3c44540-583d-4bcc-8532-524201aa57d9.png)
+
+
+
 
 <img src="https://www.researchgate.net/profile/Ke-Yan-4/publication/333791434/figure/fig1/AS:769860309090304@1560560409604/Unrolled-LSTM-uses-time-series-data-as-input.png" width="450" height="400">
 
