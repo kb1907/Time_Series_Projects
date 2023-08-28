@@ -15,7 +15,6 @@
 <img src="https://user-images.githubusercontent.com/51021282/149003347-580c4f18-5f2f-4006-830e-70a8b7469841.png" width="500" height="400">,<img src="https://user-images.githubusercontent.com/51021282/149003400-94c93eb9-acc5-4f08-b519-590d97027040.png" width="500" height="400">
 
 ### 4. [Multistep Time Series Forecasting with LSTM Models](https://github.com/kb1907/Time_Series_Projects/blob/main/Multistep_Time_Series_Forecasting_with_LSTM/multi-step-lstm-time-series-forecasting-models.ipynb)
-
 ![Screen Shot 2022-11-07 at 9 28 03 PM](https://user-images.githubusercontent.com/51021282/200397625-b3c44540-583d-4bcc-8532-524201aa57d9.png)
 
 
