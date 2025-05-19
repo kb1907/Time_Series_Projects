@@ -2,9 +2,9 @@
 ----------------------------------------------------------------
 <img src="https://www.vskills.in/certification/blog/wp-content/uploads/2014/11/Forecasting.jpg" width="500" height="500">
 
-- In this folder, different scale Time Series projects can be found.
+- In this folder, different-scale Time Series projects can be found.
 
-- All the best 🤘
+- All the best
   
 ## Time Series Projects
 -------------------------------------------------------------------
