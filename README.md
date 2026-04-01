@@ -12,6 +12,7 @@
 
 ### 2. [PROPHET MODEL- Price Forecasting](https://github.com/kb1907/Time_Series_Projects/blob/main/Price%20Forecasting%20with%20Prophet/Facebook_Prophet_Price_Forecasting.ipynb) 
 
+
 ![](https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/tumblr_inline_omh3tnv5zk1r1x9ql_500.png)
 
 ### 3. [COVID19 CASE PREDICTION - PROPHET MODEL](https://nbviewer.org/github/kb1907/Time_Series_Projects/blob/main/COVID19_Case_Prediction_Prophet_Model/Covid19_Cases_Prediction_Using_Facebook_Prophet.ipynb)
